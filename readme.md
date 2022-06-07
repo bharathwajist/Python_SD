@@ -1,1 +1,1 @@
-Nothing about this repository
+I started to learn python from scratch again.
